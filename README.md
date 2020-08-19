@@ -1,4 +1,9 @@
-# To Play
+# To Watch:
+To watch the preview with background music  go  [to this link](https://www.youtube.com/watch?v=eADbIcepP3Y)
+
+---
+
+# To Play: 
 > #### Step 1 : Download the the project:
 > [<img src ="/readme folder/github_clone_download.jpg"  width="70%">](/readme folder/github_clone_download.jpg)
 > #### Step 2: After unzipping the project , go click the folder 'IGraphics-master'
@@ -10,7 +15,7 @@
 > #### Step 3: Follow the instructions to play the game
 
 
-___
+---
 
 # Instructions:
 
@@ -44,6 +49,5 @@ ___
 ---
 
 # Full Game preview :
-To watch the preview with background music  go  [to this link](https://www.youtube.com/watch?v=eADbIcepP3Y)
 
 [<img src ="/readme folder/shoot_the_balls.gif" idth="70%">](/readme folder/shoot_the_balls.gif)
