@@ -2,10 +2,10 @@
 > #### Step 1 : Download the the project:
 > [<img src ="/readme folder/github_clone_download.jpg"  width="70%">](/readme folder/github_clone_download.jpg)
 > #### Step 2: After unzipping the project , go click the folder 'IGraphics-master'
-> [<img src ="/readme folder/folder.png"  width="70%">](/readme folder/folder.png)
+> [<img src ="/readme folder/folder.PNG"  width="70%">](/readme folder/folder.PNG)
 >
 > #### Step 3: Finally in the 'IGraphics-master' folder click 'shoot the balls.exe' file
-> [<img src ="/readme folder/click_game.png"  width="70%">](/readme folder/click_game.png)
+> [<img src ="/readme folder/click_game.PNG"  width="70%">](/readme folder/click_game.PNG)
 >
 > #### Step 3: Follow the instructions to play the game
 
