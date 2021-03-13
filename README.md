@@ -44,10 +44,13 @@ To watch the preview with background music  go  [to this link](https://www.youtu
 >
 >
 >#### Step 2: After unzipping the project , go click the folder 'IGraphics-master'
-><img src ="./README-assets/folder.png"  width="70%" style="display:block;margin-left:auto; margin-right:auto;">
+><img src ="./README-assets/image-20210313205211614.png"  width="70%" style="display:block;margin-left:auto; margin-right:auto;">
+>
+>
 >
 >#### Step 3: Finally in the 'IGraphics-master' folder click 'shoot the balls.exe' file
-><img src ="./README-assets/click_game.png"  width="70%" style="display:block;margin-left:auto; margin-right:auto;">
+>
+><img src ="./README-assets/image-20210313205257230.png"  width="70%" style="display:block;margin-left:auto; margin-right:auto;">
 >
 >#### Step 3: Follow the instructions to play the game
 
